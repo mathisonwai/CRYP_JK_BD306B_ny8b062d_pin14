@@ -1,0 +1,17 @@
+﻿
+Nyquest IDE Solution File, Format Version 1.00
+# NYIDE 5.10.0.3433
+Project("{608D5F73-6C2E-489F-8ED6-C0FBCCEB586F}") = "CRYP_BD306B", "CRYP_BD306B\CRYP_BD306B.naprj", "{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any = Debug|Any
+		Release|Any = Release|Any
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}.Debug|Any.Build.0 = Debug|Any
+		{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}.Debug|Any.ActiveCfg = Debug|Any
+		{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}.Release|Any.Build.0 = Release|Any
+		{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}.Release|Any.ActiveCfg = Release|Any
+	EndGlobalSection
+EndGlobal

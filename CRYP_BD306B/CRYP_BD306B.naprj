@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup Condition="">
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>CRYP_BD306B</AssemblyName>
+    <BackupACC>True</BackupACC>
+    <BackupFSR>True</BackupFSR>
+    <BackupPCHBUF>True</BackupPCHBUF>
+    <BackupSTATUS>True</BackupSTATUS>
+    <Bank0Only>False</Bank0Only>
+    <BankselOptLevel>2</BankselOptLevel>
+    <BuildCCompilerVersion>NYC_NY8 1.60 [Build: 230825.00]</BuildCCompilerVersion>
+    <BuildNYASMVersion>NYASM 2.40 [Build: 230823.00]</BuildNYASMVersion>
+    <BuildNYIDEVersion>NYIDE 5.10 [Build: 230831.00]</BuildNYIDEVersion>
+    <CCompilerInstallDir>C:\Nyquest\NYC_NY8</CCompilerInstallDir>
+    <ChipId>NY8B062D</ChipId>
+    <ClientName>CRYP_BD306B</ClientName>
+    <CodeOptimization>Enable</CodeOptimization>
+    <Configuration>Debug</Configuration>
+    <FreezeMode>True</FreezeMode>
+    <GenAsmListFile>True</GenAsmListFile>
+    <GenListFile>True</GenListFile>
+    <GenMapFile>True</GenMapFile>
+    <IncludePath></IncludePath>
+    <InitEEPROM>True</InitEEPROM>
+    <InitializeBss>True</InitializeBss>
+    <LibraryFiles></LibraryFiles>
+    <NYASMInstallDir>C:\Nyquest\NYASM\</NYASMInstallDir>
+    <NYIDEInstallDir>C:\Nyquest\NYIDE\</NYIDEInstallDir>
+    <OutputType>bin</OutputType>
+    <Platform>CNy8</Platform>
+    <ProjectGuid>{5BFCAD6C-CE3A-4A76-B8B9-DBA8D70272F4}</ProjectGuid>
+    <ProjectOptionChanged>False</ProjectOptionChanged>
+    <ReservedInterruptRam>5</ReservedInterruptRam>
+    <ReservedRam>8</ReservedRam>
+    <RootNamespace>CRYP_BD306B</RootNamespace>
+    <TrimSetting>+ 0%</TrimSetting>
+    <WarningMsgCode0>112</WarningMsgCode0>
+    <WarningMsgCode1>84</WarningMsgCode1>
+    <WarningMsgCode2>112</WarningMsgCode2>
+    <WarningMsgCode3>112</WarningMsgCode3>
+    <WarningMsgCode4>112</WarningMsgCode4>
+    <WarningMsgCode5>112</WarningMsgCode5>
+    <WarningMsgCode6>112</WarningMsgCode6>
+    <WarningMsgCode7>112</WarningMsgCode7>
+    <WarningMsgCode8>112</WarningMsgCode8>
+    <WarningMsgCode9>60</WarningMsgCode9>
+    <WarningMsgCount>0</WarningMsgCount>
+    <WarningMsgFileName0>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName0>
+    <WarningMsgFileName1>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName1>
+    <WarningMsgFileName2>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName2>
+    <WarningMsgFileName3>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName3>
+    <WarningMsgFileName4>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName4>
+    <WarningMsgFileName5>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName5>
+    <WarningMsgFileName6>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName6>
+    <WarningMsgFileName7>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName7>
+    <WarningMsgFileName8>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName8>
+    <WarningMsgFileName9>D:\wksp_ex\CRYP_JK_BD306B_ny8b062d_pin14_20230907\CRYP_BD306B\main.c</WarningMsgFileName9>
+    <WarningMsgLineNumber0>1205</WarningMsgLineNumber0>
+    <WarningMsgLineNumber1>1205</WarningMsgLineNumber1>
+    <WarningMsgLineNumber2>389</WarningMsgLineNumber2>
+    <WarningMsgLineNumber3>395</WarningMsgLineNumber3>
+    <WarningMsgLineNumber4>407</WarningMsgLineNumber4>
+    <WarningMsgLineNumber5>415</WarningMsgLineNumber5>
+    <WarningMsgLineNumber6>427</WarningMsgLineNumber6>
+    <WarningMsgLineNumber7>435</WarningMsgLineNumber7>
+    <WarningMsgLineNumber8>443</WarningMsgLineNumber8>
+    <WarningMsgLineNumber9>549</WarningMsgLineNumber9>
+    <WarningMsgMessage0>main.c:1205: warning 112: function 'get_m68_pressure' implicit declaration</WarningMsgMessage0>
+    <WarningMsgMessage1>main.c:1205: warning 84: 'auto' variable 'get_m68_pressure' may be used before initialization</WarningMsgMessage1>
+    <WarningMsgMessage2>main.c:389: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage2>
+    <WarningMsgMessage3>main.c:395: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage3>
+    <WarningMsgMessage4>main.c:407: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage4>
+    <WarningMsgMessage5>main.c:415: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage5>
+    <WarningMsgMessage6>main.c:427: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage6>
+    <WarningMsgMessage7>main.c:435: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage7>
+    <WarningMsgMessage8>main.c:443: warning 112: function 'io_uart_tx' implicit declaration</WarningMsgMessage8>
+    <WarningMsgMessage9>main.c:549: warning 60: function return value mismatch</WarningMsgMessage9>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="CRYP_BD306B.cb" EntryPoint="false" MetaData="" />
+    <Compile Include="main.c" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Client: CRYP_BD306B" EntryPoint="false" MetaData="" />
+    <Reference Include="Config Block: CRYP_BD306B.cb" EntryPoint="false" MetaData="" />
+    <Reference Include="IC Body: NY8B062D" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="app_cfg.h" EntryPoint="false" MetaData="Dependency Files\app_cfg.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\ny8_constant.h" EntryPoint="false" MetaData="Dependency Files\ny8_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NY8_Example_Code\include\NY8 C\ny8b062d_constant.h" EntryPoint="false" MetaData="Dependency Files\ny8b062d_constant.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8.h" EntryPoint="false" MetaData="Dependency Files\ny8.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8b062d.h" EntryPoint="false" MetaData="Dependency Files\ny8b062d.h" />
+    <ApplicationDefinition Include="C:\Nyquest\NYC_NY8\include\ny8common.h" EntryPoint="false" MetaData="Dependency Files\ny8common.h" />
+    <Folder Include="Dependency Files" EntryPoint="false" MetaData="" />
+  </ItemGroup>
+  <Properties>
+    <Array name="ActionFiles" />
+    <Array name="bookmarks" />
+    <Array name="EEPROMOverwriteData" />
+    <Array name="ExternalResource" />
+    <Array name="files">
+      <Element value="main.c|False" />
+      <Element value="app_cfg.h|False" />
+      <Element value="C:/Nyquest/NY8_Example_Code/include/NY8 C/ny8b062d_constant.h|True" />
+      <Element value="C:/Nyquest/NYC_NY8/include/ny8common.h|False" />
+    </Array>
+    <Array name="InstrumentFiles" />
+    <Array name="MelodyDatabaseFiles" />
+    <Array name="MusicFiles" />
+    <Array name="RegisterWindowExpandInfo">
+      <Element value="R-Page|False" />
+      <Element value="INDF@R-Page|False" />
+      <Element value="TMR0@R-Page|False" />
+      <Element value="PCL@R-Page|False" />
+      <Element value="STATUS@R-Page|False" />
+      <Element value="FSR@R-Page|False" />
+      <Element value="PORTA@R-Page|False" />
+      <Element value="PORTB@R-Page|False" />
+      <Element value="PCON@R-Page|False" />
+      <Element value="BWUCON@R-Page|False" />
+      <Element value="PCHBUF@R-Page|False" />
+      <Element value="ABPLCON@R-Page|False" />
+      <Element value="BPHCON@R-Page|False" />
+      <Element value="INTE@R-Page|False" />
+      <Element value="INTF@R-Page|False" />
+      <Element value="ADMD@R-Page|False" />
+      <Element value="ADR@R-Page|False" />
+      <Element value="ADD@R-Page|False" />
+      <Element value="ADVREFH@R-Page|False" />
+      <Element value="ADCR@R-Page|False" />
+      <Element value="AWUCON@R-Page|False" />
+      <Element value="PACON@R-Page|False" />
+      <Element value="INTEDG@R-Page|False" />
+      <Element value="TMRH@R-Page|False" />
+      <Element value="ANAEN@R-Page|False" />
+      <Element value="RFC@R-Page|False" />
+      <Element value="TM3RH@R-Page|False" />
+      <Element value="INTE2@R-Page|False" />
+      <Element value="F-Page|False" />
+      <Element value="IOSTA@F-Page|False" />
+      <Element value="IOSTB@F-Page|False" />
+      <Element value="APHCON@F-Page|False" />
+      <Element value="PS0CV@F-Page|False" />
+      <Element value="BODCON@F-Page|False" />
+      <Element value="CMPCR@F-Page|False" />
+      <Element value="PCON1@F-Page|False" />
+      <Element value="S-Page|False" />
+      <Element value="TMR1@S-Page|False" />
+      <Element value="T1CR1@S-Page|False" />
+      <Element value="T1CR2@S-Page|False" />
+      <Element value="PWM1DUTY@S-Page|False" />
+      <Element value="PS1CV@S-Page|False" />
+      <Element value="BZ1CR@S-Page|False" />
+      <Element value="IRCR@S-Page|False" />
+      <Element value="TBHP@S-Page|False" />
+      <Element value="TBHD@S-Page|False" />
+      <Element value="TMR2@S-Page|False" />
+      <Element value="T2CR1@S-Page|False" />
+      <Element value="T2CR2@S-Page|False" />
+      <Element value="PWM2DUTY@S-Page|False" />
+      <Element value="PS2CV@S-Page|False" />
+      <Element value="BZ2CR@S-Page|False" />
+      <Element value="OSCCR@S-Page|False" />
+      <Element value="TMR3@S-Page|False" />
+      <Element value="T3CR1@S-Page|False" />
+      <Element value="T3CR2@S-Page|False" />
+      <Element value="PWM3DUTY@S-Page|False" />
+      <Element value="PS3CV@S-Page|False" />
+      <Element value="BZ3CR@S-Page|False" />
+    </Array>
+    <Array name="ResourceManager" />
+    <Array name="UpdateableResources" />
+    <Array name="VoiceFiles" />
+    <Array name="VRModule" />
+    <Array name="WatchItemInfo" />
+  </Properties>
+</Project>
